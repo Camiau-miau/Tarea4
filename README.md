@@ -50,7 +50,7 @@ Se observa solapamiento considerable: la severidad no forma dos nubes completame
 Aquí se observan **tres grupos definidos** que representan posibles fenotipos biológicos.  
 Esto permite una mejor estratificación que el outcome binario.
 
-### 🔬 Implicaciones en un ensayo clínico:
+###  Implicaciones en un ensayo clínico:
 
 - Permite **estratificar la aleatorización** por fenotipo.
 - Permite evaluar si la respuesta al tratamiento **cambia entre fenotipos** (interacción tratamiento × fenotipo).
